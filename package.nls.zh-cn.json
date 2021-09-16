@@ -1,0 +1,7 @@
+{
+    "extension.treeview.title": "按钮列表",
+    "extension.treeview.tooltip": "执行",
+    "extension.command.helloworld": "debug: 显示 hello world",
+    "extension.command.call": "调用命令",
+    "extension.command.refresh": "刷新面板"
+}

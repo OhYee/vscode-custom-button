@@ -1,0 +1,7 @@
+{
+    "extension.treeview.title": "Buttons",
+    "extension.treeview.tooltip": "Run",
+    "extension.command.helloworld": "Debug: Show hello world",
+    "extension.command.call": "Call command",
+    "extension.command.refresh": "Refresh button panel"
+}
